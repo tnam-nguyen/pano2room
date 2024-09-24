@@ -1,0 +1,5 @@
+git+https://github.com/facebookresearch/pytorch3d.git
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+git+https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth
+git+https://github.com/camenduru/simple-knn
+git+https://github.com/rwightman/pytorch-image-models.git 
